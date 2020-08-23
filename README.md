@@ -1,2 +1,2 @@
-# khbd.org
+# khabd.org
 Organization
